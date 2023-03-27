@@ -2,6 +2,7 @@ import Card from '../UI/Card';
 import classes from './AvailableMeals.module.css';
 import MealItem from './Meals/MealItem';
 
+
 const DUMMY_MEALS = [
   {
     id: 'm1',
